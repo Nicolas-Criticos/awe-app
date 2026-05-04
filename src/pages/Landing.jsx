@@ -84,7 +84,7 @@ export default function Landing() {
           ...fade(1),
         }}
       >
-        AWE
+        AW<span style={{ display: "inline-block", transform: "scaleX(-1)" }}>E</span>
       </h1>
 
       <p
